@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on intresting projects
-- 📫 How to reach me: <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+- 📫 How to reach me: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png"></code>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
